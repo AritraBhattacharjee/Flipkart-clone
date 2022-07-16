@@ -1,0 +1,55 @@
+.secondlast
+{
+    padding-top: 20px;
+padding-left: 15px;
+}
+.head
+{
+    color: #848484;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+.body
+{
+    color: #565656;
+    font-size: 13px;
+    /* font-family: Arial; */
+    font-family: sans-serif;
+}
+ .grayclr
+{
+    color: gray;
+    padding-left: 15px;
+    padding-bottom: 12px;
+    
+} 
+.ctnt
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+
+}
+
+.h_last
+{
+    color: #878787;
+    font-weight: 700;
+    font-size: 18px;
+    padding-left: 10px;
+    margin-top: 8px;
+}
+.last
+{
+    padding-top: 15px;
+    padding-left: 18px;
+}
+.last p{
+    padding-left: 10px;
+    line-height: 16px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 12px;
+    font-family: sans-serif;
+}

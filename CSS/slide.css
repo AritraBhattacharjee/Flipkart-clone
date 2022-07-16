@@ -1,0 +1,15 @@
+#oppo
+{
+    /* min-height: 400px; */
+    max-height: 450px;
+   
+}
+.slide .image{
+    margin-top: 30px;
+    margin-left: 450px;
+    padding-top: 25px;
+}
+.slide
+{
+    background-color: rgb(247, 245, 245);
+}

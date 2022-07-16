@@ -1,0 +1,14 @@
+.menu{
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-between; */
+    /* align-items: center; */
+}
+.menu .text a{
+    text-decoration: none;
+    padding: 40px;
+}
+.menu img{
+    padding-left: 30px;
+    max-height: 85px;
+}
